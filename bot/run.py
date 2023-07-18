@@ -1,6 +1,6 @@
-from bot.booking import cars
-from bot.booking.cars import Cars
-from bot.booking.what import What
+from bot.test import cars
+from bot.test.cars import Cars
+from bot.test.what import What
 from selenium.webdriver.common.by import By
 
 
