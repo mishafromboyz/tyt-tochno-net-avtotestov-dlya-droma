@@ -1,1 +1,0 @@
-BASE_URL = "http://auto.drom.ru/"
